@@ -5,3 +5,7 @@
 3. See "Github pages" column and press "Launch automatic page generator"
 
 done!
+
+See mine for example output:
+http://modvibe.github.io/blog
+
